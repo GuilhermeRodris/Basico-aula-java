@@ -1,2 +1,2 @@
-# Lab aula-java
+# Lab de programação
 Exemplos e exercícios
