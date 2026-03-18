@@ -1,7 +1,4 @@
 import java.util.Scanner;
-//1. Escreva um programa que calcule e imprima no vídeo: a área de um retângulo e o seu
-//perímetro. Lembrando que a área é calculada multiplicando-se o valor da base pelo
-//valor da altura. O perímetro é a soma de todos os lados.
 
 public class ex1 {
     public static void main(String[] args) {

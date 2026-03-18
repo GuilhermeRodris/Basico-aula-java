@@ -1,7 +1,3 @@
-//Escreva um programa em Java que calcule a quantidade de litros de combustível gasta
-//em uma viagem, utilizando um automóvel que faz 10,5 km/l (quilômetros por litro).
-//Para realizar o cálculo, o usuário deve fornecer o tempo gasto e a velocidade média.
-
 import java.util.Scanner;
 
 public class ex3 {
