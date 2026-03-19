@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 import java.lang.Math;
 
 public class ex5 {
@@ -20,8 +19,7 @@ public class ex5 {
         System.out.println("Informe qual o valor da porcentagem de desconto do INSS: ");
         pINSS = sc.nextDouble();
         desINSS = sb * (pINSS / 100);
-        desINSS =  Math.round(desINSS * 100.0) / 100.0;
-        System.out.println("Valor a ser descontado do sálario bruto: " + desINSS);
+        System.out.printf("Valor a ser descontado do salário bruto: %.2f \n", desINSS);
 
         //c) e d)
         slm = sb - desINSS;

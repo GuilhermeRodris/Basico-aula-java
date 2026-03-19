@@ -9,9 +9,8 @@ public class ex6 {
         x = sc.nextDouble();
 
         y = Math.sqrt(Math.cbrt(x - 0.5));
-        yaren =  Math.round(y * 1000.0) / 1000.0;
 
-        System.out.println("O valor de y é: " + yaren);
+        System.out.printf("O valor de y é: %.2f", y);
 
 
     }
